@@ -1,5 +1,5 @@
 # Muito Prazer! Sou Guilherme Vilas
--👨‍💻 Atualmente estou me especializando em back-end <br>
+-👨‍💻 Atualmente sou desenvolvedor FullStack <br>
 -🚀 Facilidade com gestão de projetos e equipes <br>
 -🔥 Gosto de desafios em todas as áreas 
 
